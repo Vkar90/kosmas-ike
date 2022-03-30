@@ -21,13 +21,13 @@ export default function IndexPage() {
         <Layout>
           <SEO title="Emmanouil Kosmas IKE" />
           <Banner />
-          {/* <Services /> */}
-          {/* <BoostAgencies />
+          {/* <Services />
+          <BoostAgencies />
           <VideoOne />
           <Testimonials />
           <CustomerSupport />
-          <Feature /> */}
-          {/* <CallToAction /> */}
+          <Feature />
+          <CallToAction /> */}
         </Layout>
       </StickyProvider>
     </ThemeProvider>

@@ -41,8 +41,8 @@ export default function Header({ className }) {
             sx={styles.headerBtn}
             variant="buttons.primary"
           />
-{/* 
-          <MobileDrawer /> */}
+
+          {/* <MobileDrawer /> */}
         </Container>
       </header>
     </DrawerProvider>
@@ -57,8 +57,8 @@ const styles = {
     letterSpacing: '-0.16px',
     borderRadius: '5px',
     border: '2px solid',
-    borderColor: '#F64F5A',
-    color: '#F64F5A',
+    borderColor: '#BC343E',
+    color: 'black',
     padding: '8px 24px',
     display: ['none', null, null, null, 'inline-block'],
     ml: ['0', null, null, 'auto', '0'],

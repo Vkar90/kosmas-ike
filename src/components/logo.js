@@ -11,8 +11,7 @@ export default function Logo() {
         variant: 'links.logo',
       }}
     >
-      <h1 style={{fontSize:'1.5rem', color:'#F64F5A'}}>Emmanouil Kosmas IKE</h1>
-      {/* <Image src={logo} sx={{ display: 'flex' }} alt="Emmanouil Kosmas IKE" /> */}
+      <h3 style={{color: '#BC343E'}}>Emmanouil Kosmas IKE</h3>
     </Link>
   );
 }
